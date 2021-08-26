@@ -1,0 +1,7 @@
+E:\projetos\console_app\console_app\obj\Debug\console_app.csproj.AssemblyReference.cache
+E:\projetos\console_app\console_app\obj\Debug\console_app.csproj.CoreCompileInputs.cache
+E:\projetos\console_app\console_app\bin\Debug\console_app.exe.config
+E:\projetos\console_app\console_app\bin\Debug\console_app.exe
+E:\projetos\console_app\console_app\bin\Debug\console_app.pdb
+E:\projetos\console_app\console_app\obj\Debug\console_app.exe
+E:\projetos\console_app\console_app\obj\Debug\console_app.pdb

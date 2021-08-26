@@ -1,0 +1,5 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: console_app, Configuração: Debug Any CPU ------
+1>E:\projetos\console_app\console_app\Program.cs(16,37,16,37): error CS1002: ; esperado
+1>E:\projetos\console_app\console_app\Program.cs(21,2,21,2): error CS1513: } esperada
+========== Compilar: 0 com êxito, 1 com falha, 0 atualizados, 0 ignorados ==========
